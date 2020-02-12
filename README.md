@@ -33,6 +33,13 @@ https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94
 
 后续可能会基于github pages做一个播放器，提供在线试听。
 
+# 其他资源
+issues中其他人提供的下载地址。如果有好的资源，希望大家不吝分享。谢谢~
+
+[部分曲目CD抓轨，百度网盘分享](https://github.com/PetalsOnaWet/lizhi/issues/23#issue-523931787)
+
+[百度网盘 看起来很完整](https://github.com/PetalsOnaWet/lizhi/issues/22#issue-509683891)
+
 # 目录
 
 ### 勾三搭四
