@@ -6,10 +6,23 @@
 
 格式请自行转换
 
-[Github地址](https://github.com/PetalsOnaWet/lizhi/) 期望star扩散。问题与讨论可以直接提issues
+尝试了Resilio 以及做成磁力链接方案均失败，Resilio 一直进入不了上传阶段 做种一直提示我端口堵塞，上传速度为0kb/s 简直没眼看,目前先将资源放置在百度云吧。如果有小伙伴不辞辛苦做成磁力请共享哦。
 
-# [下载地址](https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94)
 
+
+想要感谢我的话可以star 分享 以及赞赏~
+
+
+# 下载地址
+## 百度云
+链接：https://pan.baidu.com/s/1B7y8yjfJP0orlMejyXAbNQ 
+提取码：kv8f 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
+下载速度慢的话 请搜索神器pandownload
+
+## OneDrive 
+这个不太全 百度云是最全的
 https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94
 
 资源是保存在OneDrive 
@@ -19,11 +32,9 @@ https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94
 
 可能会有一些资源重复，资源缺失，层级混乱的问题，受限于oneDrive空间大小,目前在考虑其他方案
 
-想要感谢我的画可以star 分享 以及赞赏~
 
-# 最新更新
 
-尝试了Resilio 以及做成磁力链接方案均失败，Resilio 一直进入不了上传阶段 做种一直提示我端口堵塞，上传速度为0kb/s 简直没眼看,目前先将资源放置在百度云吧。如果有小伙伴不辞辛苦做成磁力请共享哦。
+
 
 # 关于版权问题
 
