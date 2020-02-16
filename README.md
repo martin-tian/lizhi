@@ -25,10 +25,9 @@ Resilio 一直进入不了上传阶段
 
 # 下载地址
 ## 百度云
-链接：https://pan.baidu.com/s/1B7y8yjfJP0orlMejyXAbNQ 
-提取码：kv8f 
+链接：https://pan.baidu.com/s/1R20NQJr7Di-PoakSbBdnaA 
+提取码：b2hu 
 复制这段内容后打开百度网盘手机App，操作更方便哦
-
 下载速度慢的话 请搜索神器pandownload
 
 ## OneDrive 
