@@ -24,6 +24,11 @@ Resilio 一直进入不了上传阶段
 <img src="zanshang.jpg" width = 30% height = 30% />
 
 # 下载地址
+## Google Drive
+
+https://drive.google.com/drive/folders/1Qrub6z-COxiwRVz3gP6JcTIYQpBEU6dj?usp=sharing
+
+
 ## 百度云
 链接：https://pan.baidu.com/s/1R20NQJr7Di-PoakSbBdnaA 
 提取码：b2hu 
