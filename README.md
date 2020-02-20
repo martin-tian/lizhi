@@ -63,6 +63,7 @@ https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94
 若邮件回复不允许，我会立即删除。
 
 # todo
+统计缺失资源，然后去发掘，所以期望有缺失资源的尽可能提供给我 我统一放在google drive 统计清单正在做。
 
 后续可能会基于github pages做一个播放器，提供在线试听。
 
