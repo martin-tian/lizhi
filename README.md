@@ -24,6 +24,8 @@ Resilio 一直进入不了上传阶段
 <img src="zanshang.jpg" width = 30% height = 30% />
 
 # 下载地址
+## 城通网盘
+待上传，预估十一搞定。敬请期待～
 ## Google Drive
 
 https://drive.google.com/drive/folders/1Qrub6z-COxiwRVz3gP6JcTIYQpBEU6dj?usp=sharing
