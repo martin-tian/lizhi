@@ -19,6 +19,8 @@ Resilio 一直进入不了上传阶段
 
 目录中没提及到的资源就是没有。
 
+电报群组链接：https://t.me/nblizhi
+
 想要感谢我的话可以star 分享 以及赞赏~
 
 <img src="zanshang.jpg" width = 30% height = 30% />
