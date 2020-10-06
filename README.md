@@ -27,7 +27,7 @@ Resilio 一直进入不了上传阶段
 
 # 下载地址
 ## 城通网盘
-待上传，预估十一搞定。敬请期待～
+https://n802.com/dir/29639387-40996593-54c6fe
 ## Google Drive
 
 https://drive.google.com/drive/folders/1Qrub6z-COxiwRVz3gP6JcTIYQpBEU6dj?usp=sharing
