@@ -34,21 +34,12 @@ https://drive.google.com/drive/folders/1Qrub6z-COxiwRVz3gP6JcTIYQpBEU6dj?usp=sha
 
 
 ## 百度云
-链接：https://pan.baidu.com/s/1R20NQJr7Di-PoakSbBdnaA 
-提取码：b2hu 
-复制这段内容后打开百度网盘手机App，操作更方便哦
-下载速度慢的话 请搜索神器pandownload
-
-最初六张专辑
-
-链接: https://pan.baidu.com/s/1Ew-QcE7tAds6gZfFLflyoA 提取码: 5h34 复制这段内容后打开百度网盘手机App，操作更方便哦
-
-* 2020/2/20 新增李志最初六张专辑
+链接: https://pan.baidu.com/s/1iFqaHrIf6qDSYVDWhmT5jw 提取码: hiqf 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
 
 ## OneDrive 
-这个不太全 百度云是最全的
+
 
 https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94
 
