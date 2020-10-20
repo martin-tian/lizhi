@@ -35,6 +35,8 @@ https://drive.google.com/drive/folders/1Qrub6z-COxiwRVz3gP6JcTIYQpBEU6dj?usp=sha
 
 ## 百度云
 链接: https://pan.baidu.com/s/1iFqaHrIf6qDSYVDWhmT5jw 提取码: hiqf 复制这段内容后打开百度网盘手机App，操作更方便哦
+（已失效，待更新，可先用城通）
+
 
 
 
