@@ -23,7 +23,7 @@ Resilio 一直进入不了上传阶段
 
 想要感谢我的话可以star 分享 以及赞赏~
 
-<img src="zanshang.jpg" width = 30% height = 30% />
+<img src="zanshang1.jpg" width = 30% height = 30% />
 
 # 下载地址
 ## 城通网盘
