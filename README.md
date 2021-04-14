@@ -26,16 +26,19 @@ Resilio 一直进入不了上传阶段
 <img src="zanshang1.jpg" width = 30% height = 30% />
 
 # 下载地址
+
+## 直接下载地址
+https://go.txca.ml/
+
+https://cloud.txca.ga/
+
+感谢[@Chaaoo](https://github.com/Chaaoo) 
+
 ## 城通网盘
 https://n802.com/dir/29639387-40996593-54c6fe
 ## Google Drive
 
 https://drive.google.com/drive/folders/1Qrub6z-COxiwRVz3gP6JcTIYQpBEU6dj?usp=sharing
-
-
-## 百度云
-链接: https://pan.baidu.com/s/1iFqaHrIf6qDSYVDWhmT5jw 提取码: hiqf 复制这段内容后打开百度网盘手机App，操作更方便哦
-（已失效，待更新，可先用城通）
 
 
 
