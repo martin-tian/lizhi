@@ -26,7 +26,7 @@ https://go.txca.ml/
 
 https://cloud.txca.ga/
 
-感谢[@Chaaoo](https://github.com/Chaaoo) 
+感谢[@Chaaoo](https://github.com/Chaaoo) 提供
 
 ## 城通网盘
 https://n802.com/dir/29639387-40996593-54c6fe
