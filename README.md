@@ -24,7 +24,7 @@
 ## 直接下载地址
 https://go.txca.ml/
 
-https://cloud.txca.ga/
+
 
 感谢[@Chaaoo](https://github.com/Chaaoo) 提供
 
