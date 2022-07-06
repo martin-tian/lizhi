@@ -48,6 +48,10 @@ https://1drv.ms/f/s!AtUSSjCEGvEubhp5Ds0g19-QQ94
 
 目前只可以按照目录进入相应文件夹单个文件下载
 
+如果还没有满意的 可以去这里找一下
+
+https://github.com/PetalsOnaWet/lizhi/issues?q=+label%3A%E8%B5%84%E6%BA%90+
+
 ## 
 
 
